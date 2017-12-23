@@ -1,0 +1,10 @@
+bin/
+include/
+lib/
+pip-selfcheck.json
+pyvenv.cfg
+share
+
+# Checkpoints for jupyter notebooks
+*.ipynb_checkpoints/
+
